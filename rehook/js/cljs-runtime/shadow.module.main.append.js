@@ -1,0 +1,2 @@
+
+rehook.test.browser.report();
