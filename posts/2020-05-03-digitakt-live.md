@@ -1,4 +1,4 @@
-# "Effect parameter mapping for the Digitakt in Ableton Live"
+# Effect parameter mapping for the Digitakt in Ableton Live
 Posted: 2020/05/03
 
 ### Overview
