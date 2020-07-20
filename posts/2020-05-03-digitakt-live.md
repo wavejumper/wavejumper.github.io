@@ -1,6 +1,5 @@
-{:title "Effect parameter mapping for the Digitakt in Ableton Live"
- :layout :post
- :tags  ["max for live" "patches"]}
+# "Effect parameter mapping for the Digitakt in Ableton Live"
+Posted: 2020/05/03
 
 ### Overview
 
