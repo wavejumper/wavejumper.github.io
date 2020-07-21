@@ -11,6 +11,18 @@
     :root {
       --sidebar-background: inherit;
     }
+
+    li > a {
+      color: var(--navbar-root-color) !important;
+      text-decoration: underline !important;
+    }
+
+    .app-nav {
+      text-align: left;
+    }
+    .markdown-section {
+      margin: 0;
+    }
   </style>
 </head>
 <body>
@@ -19,7 +31,9 @@
     window.$docsify = {
       name: 'tscrowley.dev',
       repo: '',
-      loadSidebar: true
+      loadNavbar: true,
+      hideSidebar: true,
+      loadSidebar: false
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
